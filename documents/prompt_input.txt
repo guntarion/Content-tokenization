@@ -1,0 +1,81 @@
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim sapien volutpat est gravida viverra. Quisque eget sagittis elit, nec ultrices magna. Suspendisse eget ligula ornare elit cursus semper. Quisque felis mauris, ornare et pulvinar quis, commodo vitae risus. Suspendisse potenti. Vivamus sed gravida enim. Morbi lacinia, velit tempor porttitor tincidunt, sapien nisl faucibus elit, at volutpat purus lorem eu dui.
+
+Pellentesque porttitor arcu ut enim imperdiet, at cursus tellus elementum. Suspendisse vitae lectus id ipsum eleifend fringilla. Fusce eu dapibus erat. Sed ac purus eget massa rutrum tincidunt. Ut massa nisl, porttitor eget lorem nec, tempus varius lectus. Aliquam tempor, diam at facilisis varius, mi augue consequat ligula, in faucibus arcu mauris a mauris. Nulla eget malesuada leo. Vivamus non rutrum dui.
+
+
+
+### Contoh Keluaran untuk Kurikulum dan Silabus Pelatihan
+
+#### Konteks: 
+**Silabus Pembelajaran Pengelolaan Keuangan PLN Nusantara Power dan Aplikasi Pendukungnya**
+
+#### Mata Pelajaran - 3: Pengelolaan Pencatatan Akuntansi
+
+**Hasil Belajar:**
+Setelah mengikuti pembelajaran ini, peserta diharapkan memahami pengelolaan dan pencatatan akuntansi.
+
+**Pokok Bahasan:**
+- Maintain Manual Journal (MSO905)
+
+**Sub Pokok Bahasan:**
+- Create a Journal (Short Form)
+- Modify/Delete a Journal (Short Form)
+- Create Journal
+- Modify a Journal
+- Delete a Journal
+
+
+### Usulan untuk Kurikulum dan Silabus
+
+#### 1. Hasil Belajar
+
+**Setelah mengikuti pembelajaran ini, peserta diharapkan mampu:**
+- Memahami konsep dasar pengelolaan jurnal manual dalam sistem akuntansi.
+- Menggunakan fitur "Create a Journal (Short Form)" untuk mencatat transaksi keuangan secara efisien.
+- Melakukan modifikasi dan penghapusan jurnal menggunakan fitur "Modify/Delete a Journal (Short Form)".
+- Mengelola jurnal lengkap menggunakan fitur "Create Journal", "Modify a Journal", dan "Delete a Journal".
+- Menerapkan praktik terbaik dalam pencatatan akuntansi untuk memastikan integritas data keuangan.
+
+#### 2. Kriteria Penilaian
+
+**Penilaian akan dilakukan berdasarkan:**
+- **Pemahaman Teori:**
+  - Peserta mampu menjelaskan konsep pengelolaan jurnal manual dan pentingnya dalam akuntansi.
+- **Kemampuan Praktis:**
+  - Peserta berhasil membuat jurnal singkat dan lengkap sesuai dengan skenario yang diberikan.
+  - Peserta mampu memodifikasi dan menghapus jurnal dengan benar dan sesuai prosedur.
+- **Aplikasi dalam Situasi Nyata:**
+  - Peserta menunjukkan kemampuan untuk menerapkan konsep dan teknik yang dipelajari dalam konteks pekerjaan mereka di PLN Nusantara Power.
+- **Uji Kompetensi:**
+  - Peserta menyelesaikan tes tertulis dan tugas praktis dengan nilai minimal 70%.
+
+#### 3. Alat Bantu
+
+**Alat bantu yang akan digunakan dalam pembelajaran ini meliputi:**
+- **Laptop/Komputer:**
+  - Untuk menjalankan aplikasi pencatatan akuntansi dan melakukan latihan praktis.
+- **Proyektor dan Layar:**
+  - Untuk presentasi materi dan demonstrasi langsung.
+- **Aplikasi Pendukung:**
+  - Perangkat lunak akuntansi yang digunakan oleh PLN Nusantara Power.
+- **Buku Panduan:**
+  - Buku panduan pengguna untuk aplikasi pencatatan akuntansi.
+- **Kertas dan Alat Tulis:**
+  - Untuk catatan dan latihan manual.
+
+#### 4. Waktu
+
+**Rincian waktu yang diusulkan untuk pembelajaran ini:**
+
+| Sesi | Pokok/Sub Pokok Bahasan                   | Durasi   |
+|------|-------------------------------------------|----------|
+| 1    | Pengenalan Pengelolaan Jurnal Manual      | 1 jam    |
+| 2    | Create a Journal (Short Form)             | 1 jam    |
+| 3    | Modify/Delete a Journal (Short Form)      | 1 jam    |
+| 4    | Create Journal                            | 1.5 jam  |
+| 5    | Modify a Journal                          | 1.5 jam  |
+| 6    | Delete a Journal                          | 1 jam    |
+| 7    | Praktik Terpandu dan Sesi Tanya Jawab     | 2 jam    |
+| 8    | Uji Kompetensi dan Evaluasi               | 1.5 jam  |
+|      | **Total**                                 | **10.5 jam** |
