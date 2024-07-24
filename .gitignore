@@ -112,6 +112,8 @@ env/
 venv/
 ENV/
 
+/documents
+
 # Spyder project settings
 .spyderproject
 .spyproject
